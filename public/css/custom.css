@@ -1,0 +1,23 @@
+.container{
+	padding: 100px;
+}
+.progress-bar-wrapper{
+	height:10px; 
+	background-color:#eee;
+	border-radius :25px;
+	margin-top:12px;
+
+}
+
+.progress-bar-wrapper .progress-bar{
+	height :15px;
+	width:0px;
+	border-radius:inherit;
+	text-align:center;
+
+}
+.percentage{
+	color:white;
+	text-align:center;
+
+}
